@@ -1,0 +1,16 @@
+{
+  "name": "sendsms",
+  "version": "1.0.0",
+  "description": "Module function for handle data to send to Bpard ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Duc Hoang",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "18.2.0",
+    "react-native": "0.72.6",
+    "moment": "^2.30.1"
+  }
+}
