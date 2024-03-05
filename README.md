@@ -1,0 +1,2 @@
+- This module allows users to save and process an object containing a phone number, machine number, machine type (washing or drying) to send to the board with sim module via TCP protocol to send messages via phone number.
+- A custom modal that allows users to fill in and confirm their phone number
